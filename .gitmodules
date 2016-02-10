@@ -47,10 +47,10 @@
 	path = bundle/vim-snippets
 	url = https://github.com/honza/vim-snippets
 [submodule "bundle/vim-tmux-navigator"]
-	path = bundle/vim-tmux-navigator
+	path = bundle-disabled/vim-tmux-navigator
 	url = https://github.com/christoomey/vim-tmux-navigator
 [submodule "bundle/vim-tmuxify"]
-	path = bundle/vim-tmuxify
+	path = bundle-disabled/vim-tmuxify
 	url = https://github.com/mhinz/vim-tmuxify
 [submodule "bundle/ag"]
 	path = bundle/ag
@@ -116,7 +116,7 @@
 	path = bundle/vim-ebnf
 	url = https://github.com/killphi/vim-ebnf
 [submodule "bundle/tmuxline"]
-	path = bundle/tmuxline
+	path = bundle-disabled/tmuxline
 	url = https://github.com/edkolev/tmuxline.vim
 [submodule "bundle/vim-preview"]
 	path = bundle/vim-preview
