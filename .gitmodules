@@ -68,7 +68,7 @@
 	path = bundle/vim-repeat
 	url = https://github.com/tpope/vim-repeat
 [submodule "bundle/vim-speeddating"]
-	path = bundle/vim-speeddating
+	path = bundle-disabled/vim-speeddating
 	url = https://github.com/tpope/vim-speeddating
 [submodule "bundle/vim-clojure-highlight"]
 	path = bundle/vim-clojure-highlight
