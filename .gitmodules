@@ -44,7 +44,7 @@
 	path = bundle/vim-snipmate
 	url = https://github.com/garbas/vim-snipmate
 [submodule "bundle/vim-snippets"]
-	path = bundle/vim-snippets
+	path = bundle-disabled/vim-snippets
 	url = https://github.com/honza/vim-snippets
 [submodule "bundle/vim-tmux-navigator"]
 	path = bundle-disabled/vim-tmux-navigator
