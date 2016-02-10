@@ -75,7 +75,7 @@
 	url = https://github.com/guns/vim-clojure-highlight
 [submodule "bundle/vim-niji"]
 	path = bundle/vim-niji
-	url = https://github.com/raymond-w-ko/vim-niji
+	url = https://github.com/reneezll/vim-niji
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = https://github.com/ervandew/supertab
