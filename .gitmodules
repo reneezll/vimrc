@@ -41,7 +41,7 @@
 	path = bundle/vim-puppet
 	url = https://github.com/rodjek/vim-puppet
 [submodule "bundle/vim-snipmate"]
-	path = bundle/vim-snipmate
+	path = bundle-disabled/vim-snipmate
 	url = https://github.com/garbas/vim-snipmate
 [submodule "bundle/vim-snippets"]
 	path = bundle-disabled/vim-snippets
